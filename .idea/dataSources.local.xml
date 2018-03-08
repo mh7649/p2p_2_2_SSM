@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="d_ssm_pujinziben@192.168.3.126" uuid="9cf816c2-1226-4abf-b8c9-7be6a346c4cd">
+      <database-info product="MySQL" version="5.7.17-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.44 ( Revision: b3cda4f864902ffdde495b9df93937c3e20009be )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:d_ssm_pujinziben</introspection-schemas>
+    </data-source>
+    <data-source name="d_ssm_pujinziben@localhost" uuid="9ae81364-9483-484a-8ca4-a4da1b36ae0b">
+      <database-info product="MySQL" version="5.7.18-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.44 ( Revision: b3cda4f864902ffdde495b9df93937c3e20009be )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:d_ssm_pujinziben</introspection-schemas>
+    </data-source>
+  </component>
+</project>
