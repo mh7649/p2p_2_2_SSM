@@ -12,6 +12,9 @@ File Encoding         : 65001
 
 Date: 2018-01-22 10:42:15
 */
+CREATE DATABASE IF NOT EXISTS d_ssm_pujinziben DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+USE d_ssm_pujinziben;
 
 SET FOREIGN_KEY_CHECKS=0;
 

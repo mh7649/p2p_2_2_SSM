@@ -1,1 +1,1 @@
-<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+<link href="<%=path%>/static/css/bootstrap.min.css" rel="stylesheet">

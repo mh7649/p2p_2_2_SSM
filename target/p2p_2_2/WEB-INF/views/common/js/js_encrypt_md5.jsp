@@ -1,1 +1,1 @@
-<script src="https://cdn.bootcss.com/blueimp-md5/1.1.0/js/md5.min.js"></script>
+<script src="<%=path%>/static/js/md5.min.js"></script>
